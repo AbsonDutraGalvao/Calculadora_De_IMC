@@ -1,4 +1,4 @@
-package com.example.two_calculadora_de_imc
+package com.example.calculadora_de_imc
 
 import io.flutter.embedding.android.FlutterActivity
 
